@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "20f6603deec1d2b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "90dbd27961dc6eec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Concurrent Systems/Condition Variables.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11bda4608a82644d",
+    "type": "split",
+    "children": [
+      {
+        "id": "602e7b251e749be4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c8413699bc22240",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1062947fca7d725",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "counting function",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ac10e3665866d8f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240
+  },
+  "right": {
+    "id": "8641c93c3b47c3b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a7b9fefe412322c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52ed76e4834562ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concurrent Systems/Condition Variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da2e8cfeddbdd6d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "90dbd27961dc6eec",
+  "lastOpenFiles": [
+    "Concurrent Systems/Condition Variables.md",
+    "Concurrent Systems/Producers and Consumers.md",
+    "Concurrent Systems/MutEx.md",
+    "Concurrent Systems/Synchronisation.md",
+    "Concurrent Systems/Massively Parallel Problems.md",
+    "Concurrent Systems/Concurrent Systems - Intro.md",
+    "Concurrent Systems/Concurrent - Week 2.md",
+    "Algorithms/Merge Sort.md",
+    "Algorithms/Quick Sort.md",
+    "Untitled.md"
+  ]
+}

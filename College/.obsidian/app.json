@@ -1,0 +1,12 @@
+{
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Automata",
+    "Hypergeometric",
+    "Eulerian",
+    "Synchronisation"
+  ],
+  "readableLineLength": true
+}
